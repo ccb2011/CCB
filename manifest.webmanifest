@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "CCB",
+  "short_name": "CCB",
+  "description": "CCB — 80 современных тем и 1600 учебных дел на русском и казахском языках; совместная игра.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090a",
+  "theme_color": "#08090a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./ccb-justice-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./ccb-justice-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
